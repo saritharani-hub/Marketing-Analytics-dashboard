@@ -1,4 +1,12 @@
+# Virtual Environment
 .venv/
+
+# PyCharm
 .idea/
+
+# Python Cache
 __pycache__/
 *.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
